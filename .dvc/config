@@ -1,4 +1,5 @@
 [core]
     remote = cheese_dataset
+    autostage = true
 ['remote "cheese_dataset"']
     url = gs://t7-data-versioning/dvc_store
